@@ -1,0 +1,36 @@
+# بيانات حساسة
+*.env
+*.key
+*.pem
+secrets/
+
+# بيانات كبيرة
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# نماذج مدربة
+models/
+results/
+*.pt
+*.pth
+
+# بايثون
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ويندوز
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

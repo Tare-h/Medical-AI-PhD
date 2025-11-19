@@ -1,0 +1,22 @@
+{
+  "system_settings": {
+    "app_name": "Medicai-AI-PND",
+    "version": "2.1.0",
+    "debug_mode": false
+  },
+  "ai_settings": {
+    "confidence_threshold": 0.7,
+    "max_file_size_mb": 20,
+    "supported_formats": ["png", "jpg", "jpeg", "dcm"]
+  },
+  "ui_settings": {
+    "theme": "light",
+    "language": "en",
+    "auto_save_reports": true
+  },
+  "export_settings": {
+    "default_format": "pdf",
+    "include_images": true,
+    "include_biomarkers": true
+  }
+}
