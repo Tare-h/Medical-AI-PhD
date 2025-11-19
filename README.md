@@ -23,8 +23,7 @@ Installation
 
 ```bash
 Clone repository
-git clone https://github.com/yourusername/Medical-AI-PhD.git
-cd Medical-AI-PhD
+https://github.com/Tare-h/Medical-AI-PhD
 
  Install dependencies
 pip install -r requirements.txt
@@ -143,4 +142,5 @@ This system is intended for research and educational purposes only. It should no
 •	All research consortia that provided public datasets
 Author :tarek hamwi
 Tarekhamwi2000@hotmail.com
+
 
