@@ -22,8 +22,12 @@ A comprehensive research-grade AI system for automated chest X-ray diagnosis usi
 Installation
 
 ```bash
-Clone repository
-https://github.com/Tare-h/Medical-AI-PhD
+# Clone repository
+git clone https://github.com/Tare-h/Medical-AI-PhD.git
+
+
+------
+cd Medical-AI-PhD
 
  Install dependencies
 pip install -r requirements.txt
@@ -142,5 +146,6 @@ This system is intended for research and educational purposes only. It should no
 •	All research consortia that provided public datasets
 Author :tarek hamwi
 Tarekhamwi2000@hotmail.com
+
 
 
